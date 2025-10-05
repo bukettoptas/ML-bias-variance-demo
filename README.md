@@ -7,7 +7,7 @@
 
 ---
 ---
-
+Bu adrese tıklayarak index.html notlarını görebilirsiniz: https://bukettoptas.github.io/ML-bias-variance-demo/
 ## 🎯 Giriş
 
 Linear Regresyon, **makine öğrenmesinin alfabesi**dir. İki değişken arasındaki doğrusal ilişkiyi modelleyen bu algoritma, karmaşık modellerin temelini oluşturur.
